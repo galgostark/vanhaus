@@ -77,17 +77,3 @@ El espacio de trabajo está estructurado de la siguiente forma:
 *   **Rendimiento y Ligereza**: Al no requerir librerías pesadas de terceros ni frameworks de JavaScript, el sitio carga casi instantáneamente, logrando puntuaciones de rendimiento sobresalientes.
 
 ---
-
-## 🚀 Cómo Visualizar el Proyecto
-
-Puedes abrir y visualizar el sitio web directamente en cualquier navegador moderno:
-1.  Navega hasta la carpeta raíz del proyecto `C:\webdesign\Vandal Films Studio`.
-2.  Haz doble clic sobre el archivo `index.html` para abrirlo en tu navegador favorito.
-3.  *Recomendado para testing responsivo*: Puedes utilizar extensiones de tu editor de código favorito (por ejemplo, *Live Server* de VS Code) o correr un servidor estático rápido por consola en la raíz para previsualizar el sitio con auto-recarga:
-    ```bash
-    # Si tienes Node.js instalado
-    npx serve .
-    
-    # O si tienes Python instalado
-    python -m http.server 8000
-    ```
